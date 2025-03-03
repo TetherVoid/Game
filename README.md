@@ -21,7 +21,4 @@ A simple car game built with HTML, CSS, and JavaScript. The objective of the gam
 - CSS
 - JavaScript
 
-## License
-
-This project is open-source and available under the MIT License.
 ``
